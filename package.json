@@ -1,5 +1,5 @@
 {
-  "name": "vue-assets-generator",
+  "name": "vue-3-assets-generator",
   "version": "1.0.0",
   "description": "A command-line tool to generate asset imports for Vue projects",
   "main": "generateAssets.js",
