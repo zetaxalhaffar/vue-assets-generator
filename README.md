@@ -16,25 +16,25 @@ Install globally using any of the following package managers:
 ### npm
 
 ```bash
-npm install -g vue-assets-generator
+npm install -g vue-3-assets-generator
 ```
 
 ### pnpm
 
 ```bash
-pnpm add -g vue-assets-generator
+pnpm add -g vue-3-assets-generator
 ```
 
 ### Yarn
 
 ```bash
-yarn global add vue-assets-generator
+yarn global add vue-3-assets-generator
 ```
 
 ### Bun
 
 ```bash
-bun add -g vue-assets-generator
+bun add -g vue-3-assets-generator
 ```
 
 ## Usage
