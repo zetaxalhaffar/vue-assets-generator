@@ -1,0 +1,20 @@
+{
+  "name": "vue-assets-generator",
+  "version": "1.0.0",
+  "description": "A command-line tool to generate asset imports for Vue projects",
+  "main": "generateAssets.js",
+  "bin": {
+    "vue-assets-gen": "./generateAssets.js"
+  },
+  "keywords": ["vue", "assets", "generator", "command-line", "tool", "assets-generator", "vue-assets-generator" ,"nuxt-assets-generator", "cli-tool"],
+  "author": "Mohammed Yazan Alhaffar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zetaxalhaffar/vue-assets-generator.git"
+  },
+  "files": ["generateAssets.js"],
+  "engines": {
+    "node": ">=14"
+  }
+}
